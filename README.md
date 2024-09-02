@@ -26,7 +26,7 @@ The insights generated from this KPI report will enable the hospital's executive
 
 ## Tools and Technologies Used
 
-- **Visualization:** Tableau
+- **Visualization:** Tableau, Figma
 - **Documentation:** Jupyter Notebook, Markdown
 
 ## How to Use This Project
